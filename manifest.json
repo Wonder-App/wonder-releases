@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
-  "publishedAt": "2026-08-30T15:55:44Z",
-  "notes": "refactor(updater): repoint wonder-updater at the signed public channel · feat(update): L1-3 interim — point updater at github.io Pages directly · docs(launch): L1-3/L1-4 verified end-to-end (local + live GitHub Pages) · docs(launch): checkpoint — all phase-01 code landed; blocked on accounts only · feat(release): L1-2 scaffold — Azure Trusted Signing for the Windows release · docs(launch): L1-3/L1-4 code landed + reviewed; note the private-key backup action",
-  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.5.1/Wonder-0.5.1.zip",
-  "macSha256": "06c22b2bca8faf1e9f36efa64b1785e52e8916cc2ca6fa3ef4509f8f36df2391",
-  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.5.1/Wonder-0.5.1.dmg",
-  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.5.1/Wonder-Setup-0.5.1.exe",
-  "winSha256": "40bdbc9b9b429d658efa01fff7609297eb54244be3d15b3c270fe334455d8135",
-  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.5.1/Wonder-Setup-0.5.1.exe"
+  "version": "0.6.0",
+  "publishedAt": "2026-08-30T16:18:56Z",
+  "notes": "fix(updater): set committer identity on the manifest push; log 0.5.1 + phase-02 gap · refactor(updater): repoint wonder-updater at the signed public channel · feat(update): L1-3 interim — point updater at github.io Pages directly · docs(launch): phase-02 confirmed on Windows too — dual-platform closed · feat(phase-02): search/replace, print, Hebrew spellcheck, reports, typing budget · docs(launch): L1-3/L1-4 verified end-to-end (local + live GitHub Pages)",
+  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.0/Wonder-0.6.0.zip",
+  "macSha256": "bfca8f721a7401726ef92ad2c8a68401867ec38a09d2e1ed88a309c2488389b1",
+  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.0/Wonder-0.6.0.dmg",
+  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.0/Wonder-Setup-0.6.0.exe",
+  "winSha256": "44f54b9f4ef21cb123768f877db64dd52cc8e669aac8197a753b5ff0e8f8b914",
+  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.0/Wonder-Setup-0.6.0.exe"
 }
