@@ -1,11 +1,11 @@
 {
-  "version": "0.6.2",
-  "publishedAt": "2026-08-30T17:04:00Z",
-  "notes": "chore(release): stage 0.6.1 (canonical update domain baked in) · feat(update): L1-3 repoint updater to the canonical domain + channel health check · chore: record published version 0.6.0 · docs(launch): note phase 02 (verified) ships in 0.6.0 · docs(launch): 0.6.0 published — first full version (phase-00 + phase-02 + signed channel) · fix(updater): set committer identity on the manifest push; log 0.5.1 + phase-02 gap",
-  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.2/Wonder-0.6.2.zip",
-  "macSha256": "aa33498a4dadfd5757aa5547279ffeeb08fa488f29a8364a5023d113b025ff94",
-  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.2/Wonder-0.6.2.dmg",
-  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.2/Wonder-Setup-0.6.2.exe",
-  "winSha256": "590c580c132b8eceb44e2b7c98d14224a395b224b8e143e4da1207190f3da7bd",
-  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.2/Wonder-Setup-0.6.2.exe"
+  "version": "0.6.3",
+  "publishedAt": "2026-09-07T18:54:43Z",
+  "notes": "מבנה של שלוש קומות: בית ‹ פרויקט ‹ תסריט, עם שביל ניווט וחצים קדימה ואחורה.\nשורת הכותרת של המערכת התמזגה לתוך החלון — פס אחד במקום שניים.\nסרגל התצוגות עבר לצד ימין כמסילה קבועה, עם שם מתחת לכל אייקון.\nהפאנל והמסילה נעשו עמודה אחת, וכפתור בפינה פותח וסוגר אותה.\nעמוד השער נפתח בתוך הדף במקום בחלון נפרד.\nרצועת תסריטים אחרונים במסך הבית — מכל הפרויקטים, לא רק מהפתוח.\nלחיצה אחת בוחרת תסריט, לחיצה שנייה פותחת אותו.\n\"טיוטה\" נקראת עכשיו \"דראפט\".\n⌘S שומר נקודת שמירה, ⌘⇧S שומר ונותן לה שם.\nנקודות שמירה שנתת להן שם נשמרות לתמיד; רק האוטומטיות מתגלגלות.\nאפשר לערוך נקודת שמירה ישר — ההקלדה הראשונה שומרת את מה שהיה וממשיכה משם.\n\"הכי עדכני\" תמיד בראש הרשימה, כדי שיהיה ברור ששום דבר לא אבד.\nכותרת פאנל הדראפטים היא שם הדראפט הפתוח, ולחיצה עליה פותחת את הרשימה ומאפשרת שינוי שם.\nלכל תסריט יש דמויות משלו, ואפשר לעבור בין תצוגת הפרויקט לתצוגת התסריט.\nמסך הפרויקט מציג גם דמויות שזוהו מהתסריט, ולא רק כאלה שנשמרו.\nסימון הדמויות בצבע מהיר יותר ולא מפריע לכתיבה.\n\"(\" נפתח וייסגר לבד רק במקומות שבהם כותבים גיל; בכל מקום אחר הוא סוגר רגיל.\n\"ממשיך\" נקרא עכשיו \"פרי-לאפ\", ובודק האיות מכיר את מילות ההנחיה ולא מסמן אותן.\nשתי אפשרויות זמן חדשות בכותרת סצנה: המשכי, מאוחר יותר.\nזמנים ואזורים שאתה כותב בעצמך נשמרים וחוזרים בתפריט של כותרת הסצנה.\nתפריט ההצעות מציג תשע שורות במקום חמש.\nמספרי סצנות כבויים כברירת מחדל בפרויקט חדש.\nהעמוד הראשון של התסריט כבר לא ממוספר.\n⌘0 הופך שורה לשורה חופשית — גם שורה שכבר כתובה.\nרווח על שורה ריקה מקליד רווח. קודם הוא הפך אותה בשקט לשורה חופשית.\nTab על שורה חופשית מקליד טאב במקום להחליף סוג שורה, והטאב יוצא נכון גם ל-Word.\nלוח הצבעים עבר לגוון קריר יותר.\n‏34 איורים מצוירים ביד נכנסו לאפליקציה: דיוקנאות דמויות, מסכים ריקים ואריחי סוגי פרויקט.\nהאייקונים של סוגי השורות ושל סרגל התצוגות צוירו מחדש ביד, וגדלו בתפריט בחירת השורה.\nההודעות כבר לא קופצות בתחתית העמוד — הן בראש החלון ונעלמות לבד אחרי חמש שניות.\nפעמון התראות בראש החלון: הודעות, עדכונים ו\"מה חדש\" מחכים שם.\n⌘E פותח את תפריט הייצוא ישירות.\nהכתיבה חלקה יותר, במיוחד בתסריטים ארוכים.",
+  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.3/Wonder-0.6.3.zip",
+  "macSha256": "8ed8e2073d7cb2e10c6cc6f8d7ff00cb69cccc637754fb34b2b5b877da1f466b",
+  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.3/Wonder-0.6.3.dmg",
+  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.3/Wonder-Setup-0.6.3.exe",
+  "winSha256": "8ead62196a5b1c4a40d96b0771821241d6c2b602e148f191f1d1fcc68c37d65e",
+  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.3/Wonder-Setup-0.6.3.exe"
 }
