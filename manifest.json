@@ -1,11 +1,11 @@
 {
-  "version": "0.6.7",
-  "publishedAt": "2026-09-24T07:08:41Z",
-  "notes": "**ריווח שורות בהגדרות** — ארבע מדרגות כמו בפיינל דראפט: צפוף מאוד, צפוף, רגיל ומרווח, בעורך, ב-PDF וב-Word כאחד. ברירת המחדל עכשיו ”רגיל“ — קצת יותר אוויר בין השורות; ”צפוף מאוד“ הוא הריווח הקודם.\n**הדף הראשון עולה** — הוא מתחיל מיד מתחת לסרגל העליון, ובסוף התסריט אפשר לגלול עד שרואים את קצה הדף האחרון.\n**במק, כותרת הפאנל בצד עלתה לשורה העליונה של החלון.**\n**ההשלמה האוטומטית לא נפתחת על שורה ריקה** — גם בכותרת סצנה היא מחכה לאות הראשונה.\n**נפתר: ⌘0 הפך את השורה ל”חופשי“.** ⌘0 מחזיר עכשיו רק את הזום ל-100%, והשורה נשארת כמו שהייתה; שורה חופשית בוחרים מרשימת סוגי השורה.\n**נפתר:** בפרויקט חדש, סמן סוג השורה ורשימת הסוגים הופיעו באמצע הדף במקום ליד השורה הראשונה.\n**מצב מכונת כתיבה הוסר.** הכתיבה תמיד כמו בוורד: הדף נשאר במקום, וזז רק כשהסמן מגיע לקצה המסך.\n**נפתר: הדף קפץ.** ירידה עם החצים מתחת לתחתית המסך הזיזה את הדף בחצי מסך בבת אחת, ומעבר לעמוד חדש בסוף התסריט הקפיץ אותו. עכשיו הדף זז רק כמה שצריך, ובמעבר עמוד הוא מחליק.\n**אייקון חדש** — וו לבן על ירוק, כי כך כותבים W בעברית: וונדר. גם לאפליקציה, גם לקובצי התסריט וגם לכפתור התפריט בשורת הכותרת.",
-  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.7/Wonder-0.6.7.zip",
-  "macSha256": "b0a57d1a8bf1d8de4453c9e97eefd1d2eb30cea9afd056f53adcfdd6b15266a4",
-  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.7/Wonder-0.6.7.dmg",
-  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.7/Wonder-Setup-0.6.7.exe",
-  "winSha256": "6af2d181217a20c443cba86cef835ca118cd70383fa6341882cdb792d609bed3",
-  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.7/Wonder-Setup-0.6.7.exe"
+  "version": "0.6.8",
+  "publishedAt": "2026-10-02T20:56:12Z",
+  "notes": "שליחה לקריאה: שולחים דראפט בלינק אישי, הקוראים מעירים בדפדפן, וההערות חוזרות לתסריט לפי סצנות (ייצוא ← שליחה לקריאה).\nרעיון מהטלפון: כותבים רעיון בטלפון, והוא מחכה בתסריט (הגדרות ← כללי ← רעיונות מהטלפון).\nלוח ביטים נקי לתכנון כל התסריט, עם מתאר, אורך מתוכנן, ופתקים שקופצים בלחיצה אל המילים שעליהן נכתבו.\nתסריט שלם באנגלית, בדף האמריקאי של פיינל דראפט, וממשק באנגלית כשהתסריט באנגלית.\nהיסטוריה: כל שינוי נשמר, וחוזרים לכל רגע (⌘S שומר רגע).\nהדבקת סצנה מוורד, מפיינל דראפט או מ־PDF מזוהה שורה־שורה, וקבצי ‎.fdx ו־Fountain נפתחים כמו Word.\nהערות Word נכנסות כפתקים ויוצאות כהערות Word אמיתיות.\nתרגום תסריט שלם לאנגלית ולהפך (עם מפתח משלך).\nמשוב ודיווח על תקלה מתוך האפליקציה, בלי לשלוח את התסריט.\nמסך הבית ודף הפרויקט מסודרים מחדש, ורעיון מהיר (⌘⇧N) שלא נעלם.",
+  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.8/Wonder-0.6.8.zip",
+  "macSha256": "fd057bde4860280c706a9d2adbb93b913c2f8104de6145e5716b70b46e8557f9",
+  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.8/Wonder-0.6.8.dmg",
+  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.8/Wonder-Setup-0.6.8.exe",
+  "winSha256": "6a3c1b84ae2e9daeecfcda1066de1b44a12ef38585ff89a8be0615cf16ff5c04",
+  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.6.8/Wonder-Setup-0.6.8.exe"
 }
