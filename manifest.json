@@ -1,12 +1,12 @@
 {
-  "version": "0.8.0",
-  "publishedAt": "2026-10-06T19:05:02Z",
-  "notes": "פתיחה מהירה: התסריט נכנס רק אחרי שסיים להיטען, אז הכתיבה חלקה מהרגע הראשון.\nמסך הגדרות חדש על כל החלון, וכפתורי ייצוא והגדרות בראש החלון.\nהשורה התחתונה ירדה: כל כלי עבר ליד הדבר שהוא עוסק בו, ועמוד השער מציץ מעל עמוד 1.\nפתקים: ערימה אחת, סימון קבוע בתסריט, ופתק שיוצא מהמילים שהוא עליהן. ״הפוך לביט״ בלחיצה.\nדף דמות חדש: מתחיל מהבסיס, וכל חלק נוסף בלחיצה ונגרר לסדר שלך.\nסוגי פרויקט: סרט עם יעד עמודים, סדרה עם פרקים ממוספרים, טריטמנט וריק.\nפתיחה ראשונה: וונדר שואל את שמך ומסביר כל דבר במשפט קצר בפעם הראשונה.\nהמלבן האפור מופיע רק בכותרת סצנה, וקו האיות עדין יותר.\nאנטר ומעבר עמוד מהירים יותר בתסריט ארוך.\nהפעמון מופיע רק כשיש התראה חדשה.\nבמשוב אפשר להשאיר מייל לחזרה.\nוונדר בבטא סגורה: מפתח אישי מהמייל פותח את הכתיבה. התסריטים נשארים פתוחים לקריאה ולייצוא גם בלעדיו.",
-  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.8.0/Wonder-0.8.0.zip",
-  "macSha256": "c1a1e64adee643016baa132d68b41b38bf0d1c27426849a0356eea15097666b3",
-  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.8.0/Wonder-0.8.0.dmg",
-  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.8.0/Wonder-Setup-0.8.0.exe",
-  "winSha256": "4566af660acf3e70ff6330a0cdc3e6d48108f49403bd040d9e6b6adb580b721f",
-  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.8.0/Wonder-Setup-0.8.0.exe",
+  "version": "0.9.0",
+  "publishedAt": "2026-10-07T18:51:22Z",
+  "notes": "לכל סימון על התסריט צורה משלו: צבע טקסט, פתק, דמות מדברת במרקר ושגיאת כתיב. כל אחד אפשר לכבות בהגדרות.\nהנחיה בתוך דיבור מסומנת במרקר של הדמות, יחד עם הדיאלוג שלה.\nכשפאנל הקוראים פתוח רואים רק את הערות הקוראים, כל קורא בקו בצבע שלו.\nפתק נשאר על השורה שלו, גם על שורה ריקה וגם אחרי שמשכתבים אותה.\nלוח הביטים בעיצוב חדש, ואפשר לתת שם לכל צבע.\nמעקב שורה: מצב רגיל או מצב מכונת כתיבה, בהגדרות ← עורך.\nהכתיבה מהירה יותר בתסריט ארוך, והדף לא קופץ בתחתית עמוד.\nאחרי טאב סמן השורה מחליק יחד עם השורה, בלי לעצור ולקפוץ.\nעמוד השער גולש חלק, וסמן השורה חוזר למקום שבו עצרתם.\nרעיון שנכתב או שונה בטלפון מגיע לתסריט גם אחרי שינוי שם או מיקום של הפרויקט.",
+  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.9.0/Wonder-0.9.0.zip",
+  "macSha256": "053d9818769140951f4ae855b7d1ad106dd0297fc14ba17273e400f3ac45536e",
+  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.9.0/Wonder-0.9.0.dmg",
+  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.9.0/Wonder-Setup-0.9.0.exe",
+  "winSha256": "ea85f1de705da1c4afd9e206350ef40e4e026939e40439630bc12f60da3e6444",
+  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.9.0/Wonder-Setup-0.9.0.exe",
   "storeVersion": "0.8.0"
 }
