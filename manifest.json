@@ -7,5 +7,6 @@
   "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.8.0/Wonder-0.8.0.dmg",
   "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.8.0/Wonder-Setup-0.8.0.exe",
   "winSha256": "4566af660acf3e70ff6330a0cdc3e6d48108f49403bd040d9e6b6adb580b721f",
-  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.8.0/Wonder-Setup-0.8.0.exe"
+  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.8.0/Wonder-Setup-0.8.0.exe",
+  "storeVersion": "0.8.0"
 }
