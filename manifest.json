@@ -1,12 +1,12 @@
 {
-  "version": "0.9.0",
-  "publishedAt": "2026-10-07T18:51:22Z",
-  "notes": "לכל סימון על התסריט צורה משלו: צבע טקסט, פתק, דמות מדברת במרקר ושגיאת כתיב. כל אחד אפשר לכבות בהגדרות.\nהנחיה בתוך דיבור מסומנת במרקר של הדמות, יחד עם הדיאלוג שלה.\nכשפאנל הקוראים פתוח רואים רק את הערות הקוראים, כל קורא בקו בצבע שלו.\nפתק נשאר על השורה שלו, גם על שורה ריקה וגם אחרי שמשכתבים אותה.\nלוח הביטים בעיצוב חדש, ואפשר לתת שם לכל צבע.\nמעקב שורה: מצב רגיל או מצב מכונת כתיבה, בהגדרות ← עורך.\nהכתיבה מהירה יותר בתסריט ארוך, והדף לא קופץ בתחתית עמוד.\nאחרי טאב סמן השורה מחליק יחד עם השורה, בלי לעצור ולקפוץ.\nעמוד השער גולש חלק, וסמן השורה חוזר למקום שבו עצרתם.\nרעיון שנכתב או שונה בטלפון מגיע לתסריט גם אחרי שינוי שם או מיקום של הפרויקט.",
-  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.9.0/Wonder-0.9.0.zip",
-  "macSha256": "053d9818769140951f4ae855b7d1ad106dd0297fc14ba17273e400f3ac45536e",
-  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.9.0/Wonder-0.9.0.dmg",
-  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.9.0/Wonder-Setup-0.9.0.exe",
-  "winSha256": "ea85f1de705da1c4afd9e206350ef40e4e026939e40439630bc12f60da3e6444",
-  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.9.0/Wonder-Setup-0.9.0.exe",
+  "version": "0.10.0",
+  "publishedAt": "2026-10-08T20:45:50Z",
+  "notes": "העמודים בוונדר הם העמודים של Word: אותו מספר עמודים, וכל עמוד נפתח באותה שורה. בתסריט קיים מספר העמודים יכול לרדת מעט.\nייצוא עם הצבעים: צבעי הטקסט וסימון הדמות המדברת יוצאים ל-Word ול-PDF, עם מתג \"סימוני צבע\" בחלון הייצוא.\nמספרי הסצנות בעברית עומדים בשוליים, וכותרת הסצנה מתחילה בקו של שאר השורות.\nבכל חזרה לתסריט ובכל קפיצה השורה שלכם מסומנת לרגע, כדי שהעין תמצא אותה מיד.\nאפשר להסיר תסריט מ\"המשך לכתוב\" במסך הבית: ⋯ על הכריכה ← \"הסרה ממסך הפתיחה\".\nפתקים ורעיונות חוזרים בזמן הנכון, ואומרים למה חזרו.\nשורה ריקה אומרת באפור מה היא ומה עושים Enter ו־Tab בה.\nמסך הדמויות, סרגלי הצד, חלון הדראפטים וחלון ההיסטוריה נקיים ופשוטים יותר.\nשמירה מורגשת: ⌘S מאיר את סימן השמירה ומראה מתי נשמר.\nנפתר: קובץ Word שנגרר למסך הבית מראה שוב \"קורא את הקובץ…\".",
+  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.10.0/Wonder-0.10.0.zip",
+  "macSha256": "4538e5cec94ba7a52348e9c45d5933d67768b3882d7b634cb7f36edd7bd53671",
+  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.10.0/Wonder-0.10.0.dmg",
+  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.10.0/Wonder-Setup-0.10.0.exe",
+  "winSha256": "fb64c8539b44db6cdcef85e9273c189cb67ed97b293e688edf3d88a38dff95e0",
+  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.10.0/Wonder-Setup-0.10.0.exe",
   "storeVersion": "0.8.0"
 }
