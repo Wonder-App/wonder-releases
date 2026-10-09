@@ -1,12 +1,12 @@
 {
-  "version": "0.10.0",
-  "publishedAt": "2026-10-08T20:45:50Z",
-  "notes": "העמודים בוונדר הם העמודים של Word: אותו מספר עמודים, וכל עמוד נפתח באותה שורה. בתסריט קיים מספר העמודים יכול לרדת מעט.\nייצוא עם הצבעים: צבעי הטקסט וסימון הדמות המדברת יוצאים ל-Word ול-PDF, עם מתג \"סימוני צבע\" בחלון הייצוא.\nמספרי הסצנות בעברית עומדים בשוליים, וכותרת הסצנה מתחילה בקו של שאר השורות.\nבכל חזרה לתסריט ובכל קפיצה השורה שלכם מסומנת לרגע, כדי שהעין תמצא אותה מיד.\nאפשר להסיר תסריט מ\"המשך לכתוב\" במסך הבית: ⋯ על הכריכה ← \"הסרה ממסך הפתיחה\".\nפתקים ורעיונות חוזרים בזמן הנכון, ואומרים למה חזרו.\nשורה ריקה אומרת באפור מה היא ומה עושים Enter ו־Tab בה.\nמסך הדמויות, סרגלי הצד, חלון הדראפטים וחלון ההיסטוריה נקיים ופשוטים יותר.\nשמירה מורגשת: ⌘S מאיר את סימן השמירה ומראה מתי נשמר.\nנפתר: קובץ Word שנגרר למסך הבית מראה שוב \"קורא את הקובץ…\".",
-  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.10.0/Wonder-0.10.0.zip",
-  "macSha256": "4538e5cec94ba7a52348e9c45d5933d67768b3882d7b634cb7f36edd7bd53671",
-  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.10.0/Wonder-0.10.0.dmg",
-  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.10.0/Wonder-Setup-0.10.0.exe",
-  "winSha256": "fb64c8539b44db6cdcef85e9273c189cb67ed97b293e688edf3d88a38dff95e0",
-  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.10.0/Wonder-Setup-0.10.0.exe",
+  "version": "0.11.0",
+  "publishedAt": "2026-10-09T18:13:14Z",
+  "notes": "ייבוא מוורד קורה מול העיניים: כל שורה מקבלת את הסוג שלה, ובמקום שוונדר לא בטוח הוא עוצר ושואל. בסוף הוא שואל איך קוראים לתסריט, ופותח אותו.\nהזיהוי בייבוא מוורד מדויק יותר ושואל הרבה פחות. עמוד השער מזוהה, ושורה שאינה חלק מהתסריט אפשר להפוך לפתק בצד.\nמסך הבית הוא מדף אחד: כל פרויקט הוא תיקייה, והתסריטים שלו מציצים מתוכה.\nפתיחת פרויקט חדש היא רגע בפני עצמו: שאלה אחת בכל מסך, ושם הסרט מוקלד על דף.\nמשוב ודיווח על תקלה נשלחים ישירות מוונדר, בלי לפתוח את המייל.\nסימון טקסט נראה ומתנהג כמו בפיינל דראפט, והסמן בתסריט שחור כמו הדיו.\n\"מה חדש\" נראה אחרת, ואפשר לשלוח ממנו רעיון.\nבמסך \"המפתח שלך\" אפשר להחליף מפתח, וחיבור הטלפון עבר לראש סרגל הפתקים.",
+  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-0.11.0.zip",
+  "macSha256": "e0708d39e37f7078eb57c73beeb28cb52a78e5f68e38c23c0f8cd44b6bf8932e",
+  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-0.11.0.dmg",
+  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-Setup-0.11.0.exe",
+  "winSha256": "4ae36b768915a77e44651df6854b73a96d265a889e569f759a7d27cfd49fa014",
+  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-Setup-0.11.0.exe",
   "storeVersion": "0.8.0"
 }
