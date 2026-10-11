@@ -8,5 +8,5 @@
   "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-Setup-0.11.0.exe",
   "winSha256": "4ae36b768915a77e44651df6854b73a96d265a889e569f759a7d27cfd49fa014",
   "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-Setup-0.11.0.exe",
-  "storeVersion": "0.8.0"
+  "storeVersion": "0.11.0"
 }
