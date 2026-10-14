@@ -1,12 +1,12 @@
 {
-  "version": "0.11.0",
-  "publishedAt": "2026-10-09T18:13:14Z",
-  "notes": "ייבוא מוורד קורה מול העיניים: כל שורה מקבלת את הסוג שלה, ובמקום שוונדר לא בטוח הוא עוצר ושואל. בסוף הוא שואל איך קוראים לתסריט, ופותח אותו.\nהזיהוי בייבוא מוורד מדויק יותר ושואל הרבה פחות. עמוד השער מזוהה, ושורה שאינה חלק מהתסריט אפשר להפוך לפתק בצד.\nמסך הבית הוא מדף אחד: כל פרויקט הוא תיקייה, והתסריטים שלו מציצים מתוכה.\nפתיחת פרויקט חדש היא רגע בפני עצמו: שאלה אחת בכל מסך, ושם הסרט מוקלד על דף.\nמשוב ודיווח על תקלה נשלחים ישירות מוונדר, בלי לפתוח את המייל.\nסימון טקסט נראה ומתנהג כמו בפיינל דראפט, והסמן בתסריט שחור כמו הדיו.\n\"מה חדש\" נראה אחרת, ואפשר לשלוח ממנו רעיון.\nבמסך \"המפתח שלך\" אפשר להחליף מפתח, וחיבור הטלפון עבר לראש סרגל הפתקים.",
-  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-0.11.0.zip",
-  "macSha256": "e0708d39e37f7078eb57c73beeb28cb52a78e5f68e38c23c0f8cd44b6bf8932e",
-  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-0.11.0.dmg",
-  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-Setup-0.11.0.exe",
-  "winSha256": "4ae36b768915a77e44651df6854b73a96d265a889e569f759a7d27cfd49fa014",
-  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.11.0/Wonder-Setup-0.11.0.exe",
+  "version": "0.12.0",
+  "publishedAt": "2026-10-14T15:34:24Z",
+  "notes": "חדש: וונדר לאייפון. רעיון שעולה בדרך נכתב בטלפון ומחכה בתסריט. ההורדה והחיבור בכפתור הטלפון שבסרגל הפתקים.\nפתקים בעיצוב חדש: נייר אחד, המילים וכפתור אחד. פתק חוזר כהצעה לפסקה שבה נכתב, ופתק שנסגר נשאר סגור.\nשורה משלכם: סוג שורה חדש עם שם, אייקון, צבע ומיקום.\nשליחה לקריאה: הקוראים מעירים ישירות על המילים, וההערות חוזרות אליכם.\nבידוד סצנה נכנס ויוצא בתנועה רכה, והסמן נשאר על השורה שלו.\nכשעוצרים לכתוב, שבב קטן בפינה מזכיר איך פותחים פתק חדש.\nקיצורי המקלדת מוצגים בכל מקום באותו עיצוב, כשמרחפים מעל הכפתור.\nשם התסריט בסרגל העליון שוב פותח את הרשימה, ותיקיית החזרה בפינה נסגרת בתנועה רכה.\nהלחיצות הראשונות אחרי הפתיחה מהירות יותר.\nנפתר: הסמן שליד השורה כבר לא יורד שורה אחרי כתיבת כותרת סצנה.",
+  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.12.0/Wonder-0.12.0.zip",
+  "macSha256": "7fa0955afb20c08846ee5cdcf240d33b9474b6aab36dfa67528fae3a61812902",
+  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.12.0/Wonder-0.12.0.dmg",
+  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.12.0/Wonder-Setup-0.12.0.exe",
+  "winSha256": "e09c5da598674f668e24244789d81b56ef3ac754e21a27443eb302011a798253",
+  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.12.0/Wonder-Setup-0.12.0.exe",
   "storeVersion": "0.11.0"
 }
