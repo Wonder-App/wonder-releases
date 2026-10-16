@@ -1,12 +1,12 @@
 {
-  "version": "0.12.0",
-  "publishedAt": "2026-10-14T15:34:24Z",
-  "notes": "חדש: וונדר לאייפון. רעיון שעולה בדרך נכתב בטלפון ומחכה בתסריט. ההורדה והחיבור בכפתור הטלפון שבסרגל הפתקים.\nפתקים בעיצוב חדש: נייר אחד, המילים וכפתור אחד. פתק חוזר כהצעה לפסקה שבה נכתב, ופתק שנסגר נשאר סגור.\nשורה משלכם: סוג שורה חדש עם שם, אייקון, צבע ומיקום.\nשליחה לקריאה: הקוראים מעירים ישירות על המילים, וההערות חוזרות אליכם.\nבידוד סצנה נכנס ויוצא בתנועה רכה, והסמן נשאר על השורה שלו.\nכשעוצרים לכתוב, שבב קטן בפינה מזכיר איך פותחים פתק חדש.\nקיצורי המקלדת מוצגים בכל מקום באותו עיצוב, כשמרחפים מעל הכפתור.\nשם התסריט בסרגל העליון שוב פותח את הרשימה, ותיקיית החזרה בפינה נסגרת בתנועה רכה.\nהלחיצות הראשונות אחרי הפתיחה מהירות יותר.\nנפתר: הסמן שליד השורה כבר לא יורד שורה אחרי כתיבת כותרת סצנה.",
-  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.12.0/Wonder-0.12.0.zip",
-  "macSha256": "7fa0955afb20c08846ee5cdcf240d33b9474b6aab36dfa67528fae3a61812902",
-  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.12.0/Wonder-0.12.0.dmg",
-  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.12.0/Wonder-Setup-0.12.0.exe",
-  "winSha256": "e09c5da598674f668e24244789d81b56ef3ac754e21a27443eb302011a798253",
-  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.12.0/Wonder-Setup-0.12.0.exe",
+  "version": "0.13.0",
+  "publishedAt": "2026-10-16T20:15:09Z",
+  "notes": "דף דמות חדש: כמה שאלות קצרות, והדף נבנה מול העיניים, עם סמל וצבע לכל סוג דמות.\nלוח הסצנות: כל סצנה כרטיסייה, גוררים, מקבצים לרצפים ומסננים לפי תגית או צבע.\nארכיון סצנות: סצנה שמוציאים מהתסריט נשמרת שלמה, וחוזרת בגרירה.\nרשימת הסצנות שליד התסריט שקטה יותר, והגרירה בה מרגישה כמו להרים כרטיס.\nתיבת חיפוש אחת: ⌘F בתסריט, ⌘K מוצא הכל, והחלפה בכל התסריטים עם תצוגה לפני.\nפתקים מהטלפון מגיעים לראש הפתקים של התסריט, בקבוצה ״חדש מהטלפון״.\nפתיחת תסריט רכה, בתנועה אחת, והשולחן סביב הדף שקט ובהיר.\nאין יותר קווי מתאר: מה שנבחר עולה מעט מהדף.\nהמילון מכיר את העברית של היום, וההשלמה מציעה את סוף המילה באפור.\nדיווח על תקלה בשלוש שורות קצרות, ועוד תיקונים רבים בייבוא, בייצוא ובעמוד השער.",
+  "macDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.13.0/Wonder-0.13.0.zip",
+  "macSha256": "45ce81bbe0a56ad29e741ef991c8a7c9223c78c6fb7edced35c69d76db147e97",
+  "macInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.13.0/Wonder-0.13.0.dmg",
+  "winDownloadUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.13.0/Wonder-Setup-0.13.0.exe",
+  "winSha256": "36d64679cb31b5f4af54210e521a6018d501e0711b20a585fc9d55e513018940",
+  "winInstallerUrl": "https://github.com/Wonder-App/wonder-releases/releases/download/v0.13.0/Wonder-Setup-0.13.0.exe",
   "storeVersion": "0.12.0"
 }
